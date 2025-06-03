@@ -11,7 +11,7 @@
 8. [Challenges & Learnings](#8-challenges--learnings)  
 9. [Future Improvements](#9-future-improvements) 
 10. [Repository Structure](#10-repository-structure)
-11. [GoogleColab Notebooks](#11-google-colab-notebooks)
+11. [Google Colab Notebooks](#11-google-colab-notebooks)
 12. [Team Contacts](#12-team-contacts)
 
 
@@ -257,7 +257,7 @@ Traditional keyword-based search fails to understand user intent and product con
 
 ---
 
-## 11. GoogleColab Notebooks
+## 11. Google Colab Notebooks
 
   - [ShopTalk-all-listings-initial-analysis](https://colab.research.google.com/drive/1EqinYeJ5PSk4c9XREXfJJmKRZFNKbgi2) 
   - [ShopTalk-Image-Captioning](https://colab.research.google.com/drive/1i1AyOedvdQ1_jSSNa_CCKRFVKvOs7alq)
