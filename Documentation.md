@@ -5,7 +5,7 @@
 2. [Tech Stack](#2-tech-stack)
 3. [System Components](#3-system-components)  
 4. [Data Flow](#4-data-flow)  
-5. [Deployment Setup](#5-deployment-setup)  
+5. [Deployment Details](#5-deployment-details)  
 6. [Model Evaluation & Monitoring](#6-model-evaluation--monitoring)  
 7. [Dataset](#7-dataset)  
 8. [Challenges & Learnings](#8-challenges--learnings)  
