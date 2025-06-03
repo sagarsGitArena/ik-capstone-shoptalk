@@ -6,7 +6,7 @@
 3. [System Components](#3-system-components)  
 4. [Data Flow](#4-data-flow)  
 5. [Deployment Details](#5-deployment-details)  
-6. [Model Evaluation & Monitoring](#6-model-evaluation--monitoring)  
+6. [Model Evaluation](#6-model-evaluation)  
 7. [Dataset](#7-dataset)  
 8. [Challenges & Learnings](#8-challenges--learnings)  
 9. [Future Improvements](#9-future-improvements) 
