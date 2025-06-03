@@ -15,7 +15,7 @@
 12. [Team Contacts](#12-team-contacts)
 
 
-## 1. Project Overview 📌
+## 1. Project Overview
 
 **Objective**:  
 The objective of this project is to develop an intelligent AI-powered Shopping Assistant that enables users to interact with an e-commerce platform using natural language queries. Unlike traditional keyword-based search engines, this assistant will understand complex and nuanced queries, retrieve relevant product information using Retrieval-Augmented Generation (RAG), and provide personalized and human-like responses through Natural Language Generation (NLG). The system aims to enhance product discoverability, align search results with user intent, and deliver a superior user experience that is fast, accurate, and conversational.
