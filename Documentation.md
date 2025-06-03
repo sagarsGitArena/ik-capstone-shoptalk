@@ -12,7 +12,8 @@
 9. [Future Improvements](#9-future-improvements) 
 10. [Repository Structure](#10-repository-structure)
 11. [Google Colab Notebooks](#11-google-colab-notebooks)
-12. [Team Contacts](#12-team-contacts)
+12. [Github Link](#12-github-link)
+13. [Team Contacts](#12-team-contacts)
 
 
 ## 1. Project Overview
@@ -273,12 +274,18 @@ Traditional keyword-based search fails to understand user intent and product con
     - [FAISS-IVF-PQ-Indexing](https://colab.research.google.com/drive/1XpT1FSwoOO5Pk8fXqsOzU_oXkjr3Jv9j)
     - [FAISS-HNSW-Indexing](https://colab.research.google.com/drive/1ojgbYRg7V3_WUi_vBazcLXgcCUZElSBp)
     - [FAISS-FlatL2-Indexing](https://colab.research.google.com/drive/1qVPMOMgZU6MYbSdlo4nkp15yUGlKzoSL)
- 
-## 12. Team Contacts
 
-- **Authors**: VidyaSagar Vasamsetty, Vijaya Lakshmi Ijjada, Sumit Kumar Singh, Srinivas Nagamantha  
-- **Email**: vasamsetty@gmail.com,onlinevijaya30@gmail.com,kumarsumitsingh@gmail.com,nagamantha11@gmail.com 
-- **GitHub**: https://github.com/sagarsGitArena/shop-talk
+## 12. Github Link
+  -  https://github.com/sagarsGitArena/ik-capstone-shoptalk
+ 
+## 13. Team Contacts
+
+- **Authors**:
+  -   **VidyaSagar Vasamsetty** (vasamsetty@gmail.com)
+  -   **Vijaya Lakshmi Ijjada** (onlinevijaya30@gmail.com)
+  -   **Sumit Kumar Singh** (kumarsumitsingh@gmail.com)
+  -   **Srinivas Nagamantha**  (nagamantha11@gmail.com)
+
 
 
 
